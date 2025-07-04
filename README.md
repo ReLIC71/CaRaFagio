@@ -4,6 +4,8 @@
 
 This repository contains CaRaFagio - a compressed knowledge base that makes Claude into your ultimate generative art companion. Think of it as giving Claude a master's degree in art history, technical expertise in every AI model, and the ability to translate between them all.
 
+- **Now with ComfyUI nodes included**
+
 ## What Claude Can Do For You
 
 ### 🎨 Artistic Knowledge
@@ -38,6 +40,8 @@ CaRaFagio is just how Claude stores all this knowledge efficiently. You never ne
 - **Problem Solver**: Debugs issues and suggests fixes
 - **Prompt Engineer**: Writes perfect prompts for any model
 - **Style Guide**: Ensures artistic coherence
+
+- CaRaFagio 
 
 ## Real Examples
 
